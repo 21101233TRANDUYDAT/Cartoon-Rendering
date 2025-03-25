@@ -29,7 +29,11 @@ The algorithm struggles with:
 - Images with many small details.
 - Complex lighting or color gradients.
 
-**Example**: Landscape photos with intricate details like leaves.
+**Example**: Landscape photos with intricate details like street.
+<p align="center">
+  <img src="image/img.jpg" alt="Demo 1" width="45%">
+  <img src="result/test1.jpg" alt="Demo 2" width="45%">
+</p>
 
 ## Limitations
 - Loss of fine details in non-edge areas due to masking.
