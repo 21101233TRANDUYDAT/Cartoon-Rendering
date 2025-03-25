@@ -19,6 +19,10 @@ The algorithm performs well on images with:
 - Sharp edges and moderate color complexity.
 
 **Example**: Portrait photos with uniform lighting and plain backgrounds.
+<p align="center">
+  <img src="image/Hanni_OLENS_2.jpg" alt="Demo 1" width="45%">
+  <img src="result/test.jpg" alt="Demo 2" width="45%">
+</p>
 
 ### Poor Performance
 The algorithm struggles with:
